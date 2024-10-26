@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e590ea9-3963-4306-8a3d-cfbab6ca538c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nmmgEZ08MXLyyx0eQafhGucRhC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppMain.executor": "Run",
+    "Application.BeforeSteps.executor": "Run",
+    "Application.StepDefinition.executor": "Run",
+    "Application.TestControllerWithMocks.executor": "Run",
+    "Application.TestJavFx.executor": "Run",
+    "Application.com.example.testgui.BeforeSteps.executor": "Run",
+    "Cucumber Java.Feature: outline.executor": "Run",
+    "Cucumber Java.Scenario: Sample scenario.executor": "Run",
+    "Cucumber Java.Scenario: Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок.executor": "Run",
+    "Cucumber Java.Scenario: Сценарии c несколькими операциями и более чем 2-мя переменными.executor": "Run",
+    "Cucumber Java.Scenario: Сценарии с делением на 0 и на слишком малое число.executor": "Run",
+    "Cucumber Java.Scenario: Сценарии со всеми махинациями с запятой.executor": "Run",
+    "Cucumber Java.Scenario: Сценарии со всеми махинациями с минусом.executor": "Run",
+    "Cucumber Java.Scenario: Сценарии со всеми операциями без второго аргумента.executor": "Run",
+    "Cucumber Java.Scenario: Сценарий с вводом нескольких операций.executor": "Run",
+    "JUnit.BeforeSteps.executor": "Run",
+    "JUnit.RunCucumberTest (1).executor": "Run",
+    "JUnit.RunCucumberTest.executor": "Run",
+    "JUnit.TestCalculator.executor": "Run",
+    "JUnit.TestController.executor": "Run",
+    "JUnit.TestControllerWithMocks (1).executor": "Run",
+    "JUnit.TestControllerWithMocks.executor": "Run",
+    "JUnit.TestControllerWithMocks.testProcessOperationStartNullOperationNull.executor": "Run",
+    "JUnit.TestJavFX.executor": "Run",
+    "JUnit.TestJavFX.performAutomatedActions.executor": "Run",
+    "JUnit.TestJavFX.testOneButtonClick.executor": "Run",
+    "JUnit.TestJavFX.testOneButtonClick1.executor": "Run",
+    "JUnit.TestJavFX.testOneButtonClick2.executor": "Run",
+    "JUnit.TestJavaFX.executor": "Run",
+    "JUnit.TestJavaFX.testOneButtonClick1.executor": "Run",
+    "JUnit.TestJavaFXWithCucumber.openWindowOfCalculator.executor": "Run",
+    "JUnit.TestJavaFXWithCucumber.testOneButtonClick1.executor": "Run",
+    "Maven.Jav2 [clean].executor": "Run",
+    "Maven.Jav2 [compile].executor": "Run",
+    "Maven.Jav2 [package].executor": "Run",
+    "Maven.Jav2 [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/5_Семестр/Тестирование ПО/CalculateGUI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\5_Семестр\Тестирование ПО\CalculateGUI\src\test\resources\scenarios" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.testgui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.testgui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunCucumberTest (1)">
+    <configuration name="Feature: outline" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/scenarios/outline.feature" />
+      <option name="GLUE" value="com.example.testgui" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Jav2" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: outline" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Сценарии с делением на 0 и на слишком малое число" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/scenarios/outline.feature" />
+      <option name="GLUE" value="com.example.testgui" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Jav2" />
+      <option name="NAME_FILTER" value="^Сценарии с делением на 0 и на слишком малое число$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Сценарии с делением на 0 и на слишком малое число$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Сценарии с делением на 0 и на слишком малое число" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/scenarios/outline.feature" />
+      <option name="GLUE" value="com.example.testgui" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Jav2" />
+      <option name="NAME_FILTER" value="^Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCucumberTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jav2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testgui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testgui" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testgui.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJavaFX.testOneButtonClick1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jav2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testgui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testgui" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testgui.TestJavaFX" />
+      <option name="METHOD_NAME" value="testOneButtonClick1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: outline" />
+      <item itemvalue="Cucumber Java.Scenario: Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок" />
+      <item itemvalue="Cucumber Java.Scenario: Сценарии с делением на 0 и на слишком малое число" />
+      <item itemvalue="JUnit.RunCucumberTest (1)" />
+      <item itemvalue="JUnit.TestJavaFX.testOneButtonClick1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest (1)" />
+        <item itemvalue="Cucumber Java.Feature: outline" />
+        <item itemvalue="JUnit.TestJavaFX.testOneButtonClick1" />
+        <item itemvalue="Cucumber Java.Scenario: Стандартные сценарии со всеми операциями и с учётом нажатия всех кнопок" />
+        <item itemvalue="Cucumber Java.Scenario: Сценарии с делением на 0 и на слишком малое число" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e590ea9-3963-4306-8a3d-cfbab6ca538c" name="Changes" comment="" />
+      <created>1729586734527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729586734527</updated>
+      <workItem from="1729586735626" duration="866000" />
+      <workItem from="1729670763118" duration="4044000" />
+      <workItem from="1729677075550" duration="893000" />
+      <workItem from="1729678422754" duration="18068000" />
+      <workItem from="1729703140422" duration="17219000" />
+      <workItem from="1729788483299" duration="24623000" />
+      <workItem from="1729966504338" duration="13000" />
+      <workItem from="1729966678699" duration="765000" />
+      <workItem from="1729967953452" duration="248000" />
+      <workItem from="1729968269288" duration="217000" />
+      <workItem from="1729968544384" duration="169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
